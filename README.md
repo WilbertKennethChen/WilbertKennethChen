@@ -7,11 +7,16 @@
 Building useful software, learning how systems work,
 and turning ideas into projects.
 
+![MikroTik](https://img.shields.io/badge/MikroTik-4338CA?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=for-the-badge&logo=firebase&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-312E81?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-4338CA?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=for-the-badge&logo=firebase&logoColor=white)
 ![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-9333EA?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=white)
 
 National Tsing Hua University · Indonesia → Taiwan
 
