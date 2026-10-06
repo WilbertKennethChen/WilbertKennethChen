@@ -1,5 +1,39 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=200&section=header&text=Wilbert%20Kenneth%20Chen&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Wilbert Kenneth Chen — purple header" />
+
+<a href="https://github.com/WilbertKennethChen">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Wilbert!;AI+%26+Networking+Enthusiast;Python+%C2%B7+MikroTik+%C2%B7+Linux;Building+apps.+Connecting+systems." alt="Animated introduction: Hi, I'm Wilbert. AI and networking enthusiast. Python, MikroTik, Linux. Building apps, connecting systems." />
+</a>
+
+<p>
+  Curious about intelligence. Passionate about connectivity.<br>
+  Turning ideas into practical software and connected systems.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/MikroTik-4338CA?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+<img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-312E81?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-4338CA?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Firebase-6D28D9?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-9333EA?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+
+<br><br>
+
+<p>National Tsing Hua University · Indonesia → Taiwan</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=100&section=footer" alt="Purple wave divider" />
+
+</div>
+
 # Hi, I'm Wilbert 👋
 
 ### Currently an EECS student · AI & Networking Enthusiast · Developer
