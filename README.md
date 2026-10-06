@@ -2,14 +2,22 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=200&section=header&text=Wilbert%20Kenneth%20Chen&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Wilbert Kenneth Chen" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Wilbert!;AI+%26+Networking+Enthusiast;Python+%C2%B7+MikroTik+%C2%B7+Linux;Building+apps.+Connecting+systems." alt="AI and Networking Enthusiast | Python, MikroTik, Linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=65&lines=Hello%2C+World!+I'm+Wilbert.;AI%2C+Networking+%26+STEM+Enthusiast;Researching+Cybersecurity+%C3%97+LLMs;Python+%C2%B7+MikroTik+%C2%B7+Linux;Building+apps.+Connecting+systems.;Always+curious.+Always+learning." alt="Wilbert — AI, Networking and STEM enthusiast researching Cybersecurity and LLMs" />
 
-**Curious about intelligence. Passionate about connectivity.**
+<p><strong>Curious about intelligence. Passionate about connectivity.</strong></p>
 
-Building practical software and exploring how intelligent,
-connected systems work.
+<p>Building practical software and exploring intelligent, connected systems.</p>
 
-National Tsing Hua University · Indonesia → Taiwan
+<p><strong>National Tsing Hua University · Indonesia → Taiwan</strong></p>
+
+<br>
+
+<a href="https://linktr.ee/Wilbertk.c">
+  <img src="https://img.shields.io/badge/Explore_My_World-7C3AED?style=for-the-badge&logo=linktree&logoColor=white" alt="Explore my Linktree" />
+</a>
+<a href="https://github.com/WilbertKennethChen?tab=repositories">
+  <img src="https://img.shields.io/badge/My_Public_Projects-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Browse my public projects" />
+</a>
 
 </div>
 
@@ -17,20 +25,23 @@ National Tsing Hua University · Indonesia → Taiwan
 
 ## 👨‍💻 About Me
 
-I'm Wilbert Kenneth Chen, a developer interested in
-**artificial intelligence and computer networking**.
+I'm **Wilbert Kenneth Chen**, a developer and **STEM enthusiast**
+with interests in **artificial intelligence, computer networking,
+and cybersecurity**.
 
-My skills span Python, C/C++, socket programming, MikroTik,
-Linux, and application development with Flutter and Firebase.
+I enjoy connecting theory with implementation—building applications,
+exploring how systems communicate, and applying STEM concepts
+to practical problems.
 
-I enjoy connecting theory with implementation—whether that
-means building an AI assistant, developing a student app,
-or understanding how systems communicate.
+My skills span **Python, C/C++, socket programming, MikroTik,
+Linux, Flutter, and Firebase**.
 
-- 🧠 **AI:** Machine learning and practical AI assistants.
-- 🌐 **Networking:** TCP/IP, socket programming, and MikroTik.
-- 🐧 **Systems:** Linux, embedded programming, and concurrency.
-- 📱 **Development:** Applications built with Flutter and Firebase.
+| Area | Focus |
+| :--- | :--- |
+| 🧠 **Artificial Intelligence** | Machine learning and practical AI assistants |
+| 🌐 **Networking** | TCP/IP, socket programming, and MikroTik |
+| 🐧 **Systems** | Linux, embedded programming, and concurrency |
+| 📱 **App Development** | Flutter and Firebase applications |
 
 ---
 
@@ -38,108 +49,117 @@ or understanding how systems communicate.
 
 <div align="center">
 
-### AI, Networking & Systems
+**Programming, Networking & Systems**
 
 ![Python](https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-4338CA?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white)
-![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-9333EA?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-4338CA?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6D28D9?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-9333EA?style=for-the-badge&logo=mikrotik&logoColor=white)
 
-### Application Development
+**Application Development**
 
-![Flutter](https://img.shields.io/badge/Flutter-312E81?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-4338CA?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=for-the-badge&logo=firebase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-4338CA?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-6D28D9?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=for-the-badge&logo=firebase&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🔬 Research Interests
 
-### 🐼 eNTHUsiast — University Companion App
+My interests span **artificial intelligence, computer networking,
+cybersecurity, and STEM**, with a focus on how these fields
+can work together to solve practical problems.
 
-A collaborative app project designed to help students
-organize their university life.
+- **AI & Machine Learning:** Intelligent systems and LLM applications.
+- **Networking:** Communication protocols and distributed systems.
+- **Cybersecurity:** Threat detection and trustworthy AI systems.
+- **STEM:** Applying science, technology, engineering, and mathematics
+  to real-world challenges.
 
-- Course discovery and timetable planning.
-- Graduation requirement tracking.
-- Bao Bao, an AI assistant for course planning.
+### 🛡️ Current Research: Cybersecurity × LLMs
 
-**Technologies:** Flutter · Dart · Firebase
+I'm currently exploring how **large language models (LLMs) can
+support cybersecurity analysis and decision-making**, particularly
+in **federated learning**, where multiple participants collaboratively
+train a model without directly sharing their raw data.
 
-### ⚙️ 8051 Threading & Synchronization
+My research investigates how to identify and reduce the influence
+of potentially malicious or unreliable model updates. I'm exploring
+LLMs as supporting decision-makers that interpret security indicators
+alongside numerical detection and weighting methods.
 
-Embedded programming projects exploring how multiple tasks
-share a processor with limited resources.
+**Key directions include:**
 
-- Cooperative and preemptive multithreading.
-- Context switching and register preservation.
-- Producer–consumer synchronization and bounded buffers.
+- **Threat Assessment:** Examining indicators of suspicious model updates.
+- **LLM-Assisted Analysis:** Using LLMs to help interpret detection results
+  and support decisions about participant reliability.
+- **Adaptive Downweighting:** Investigating how to reduce the influence
+  of suspicious contributions during model aggregation.
+- **Evaluation:** Comparing the approach with numerical methods to assess
+  detection quality, model performance, and the risk of penalizing
+  legitimate participants.
 
-**Technologies:** C · SDCC · EdSim51 · 8051
+The goal is to investigate whether LLM-assisted analysis can improve
+the robustness and interpretability of defenses in collaborative
+learning systems.
 
-### 🌐 TCP Client–Server Application
-
-A networking project connecting socket programming
-with network protocol concepts.
-
-- Client–server communication through TCP sockets.
-- Command handling and data transfer.
-- Network-header inspection and interpretation.
-
-**Technologies:** C · TCP/IP · Socket Programming
-
----
-
-## 🎯 Research Interests
-
-I'm interested in the intersection of **AI and distributed systems**,
-particularly how systems can make useful decisions when
-some information is unreliable.
-
-Topics I'm exploring include:
-
-- Robust federated learning.
-- Assessing and downweighting unreliable model updates.
-- Using LLMs to support decision-making.
-- AI assistants that understand user preferences and constraints.
+**Status:** Ongoing research.
 
 ---
 
 ## 🏆 Honors & Achievements
 
-### 🇮🇩 National STEM Recognition
-- **National Winner — Kihajar STEM 2023, Indonesia**
-- **Most Communicative Award — Kihajar STEM 2023**
-- Winner of multiple **provincial and regional STEM competitions**.
+### STEM Recognition & Academic Excellence
 
-### 🎓 Academic Excellence
-- **Best Student Award, 2024**
-  — Unggul Sakti Vocational High School.
+| Achievement | Event / Institution | Year |
+| :--- | :--- | :--- |
+| **Most Communicative Award** | Kihajar STEM — National Level, Indonesia | 2023 |
+| **Best Graduate Award** | Unggul Sakti Vocational High School | 2024 |
+| **Multiple STEM Competition Wins** | Provincial and regional competitions | — |
 
-### 🌏 NTHU International Student Scholarships
-- **Type A Scholarship Recipient — 2026–2027**
-  — National Tsing Hua University.
-- **Type B Scholarship Recipient — 2024–2025**
-  — National Tsing Hua University.
+### NTHU International Student Scholarships
 
-## 🎓 Background
+| Scholarship | Institution | Academic Year |
+| :--- | :--- | :--- |
+| **Type A Recipient** | National Tsing Hua University | 2026–2027 |
+| **Type B Recipient** | National Tsing Hua University | 2024–2025 |
 
-**National Tsing Hua University, Taiwan**
+---
 
-Bachelor's studies in Electrical Engineering and Computer Science.
+## 🚀 Explore My Projects
 
-Originally from Indonesia, with interests spanning software,
-intelligent systems, and computer networks.
+Curious about what I’m building? Browse my public repositories
+for projects, experiments, and collaborations across my interests.
+
+[**Explore my public projects →**](https://github.com/WilbertKennethChen?tab=repositories)
+
+---
+
+## 🎓 Education
+
+**National Tsing Hua University, Taiwan**  
+Bachelor's studies in Electrical Engineering and Computer Science
+
+**Unggul Sakti Vocational High School, Indonesia**  
+Vocational studies in Computer and Network Engineering (TKJ)
 
 ---
 
 <div align="center">
 
-**Building useful things. Understanding what happens underneath.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&height=55&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something.;Explore+my+links+below." alt="Thanks for stopping by! Let's connect and build something." />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=100&section=footer" alt="Purple wave footer" />
+<a href="https://linktr.ee/Wilbertk.c">
+  <img src="https://img.shields.io/badge/Let's_Connect-7C3AED?style=for-the-badge&logo=linktree&logoColor=white" alt="Connect with Wilbert through Linktree" />
+</a>
+
+<br><br>
+
+<em>Building useful things. Understanding what happens underneath.</em>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=120&section=footer&text=See%20you%20around!&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" alt="See you around!" />
 
 </div>
