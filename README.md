@@ -1,56 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=200&section=header&text=Wilbert%20Kenneth%20Chen&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Wilbert Kenneth Chen — purple header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=200&section=header&text=Wilbert%20Kenneth%20Chen&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Wilbert Kenneth Chen" />
 
-<a href="https://github.com/WilbertKennethChen">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Wilbert!;AI+%26+Networking+Enthusiast;Python+%C2%B7+MikroTik+%C2%B7+Linux;Building+apps.+Connecting+systems." alt="Animated introduction: Hi, I'm Wilbert. AI and networking enthusiast. Python, MikroTik, Linux. Building apps, connecting systems." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I%27m+Wilbert!;AI+%26+Networking+Enthusiast;Python+%C2%B7+MikroTik+%C2%B7+Linux;Building+apps.+Connecting+systems." alt="AI and Networking Enthusiast | Python, MikroTik, Linux" />
 
-<p>
-  Curious about intelligence. Passionate about connectivity.<br>
-  Turning ideas into practical software and connected systems.
-</p>
+**Curious about intelligence. Passionate about connectivity.**
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/MikroTik-4338CA?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-<img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/Bash-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Flutter-312E81?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-4338CA?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Firebase-6D28D9?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-9333EA?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-
-<br><br>
-
-<p>National Tsing Hua University · Indonesia → Taiwan</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=100&section=footer" alt="Purple wave divider" />
-
-</div>
-
-# Hi, I'm Wilbert 👋
-
-### Currently an EECS student · AI & Networking Enthusiast · Developer
-
-Building useful software, learning how systems work,
-and turning ideas into projects.
-
-![MikroTik](https://img.shields.io/badge/MikroTik-4338CA?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-7C3AED?style=for-the-badge&logo=gnubash&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=for-the-badge&logo=firebase&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-312E81?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-4338CA?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-9333EA?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=white)
+Building practical software and exploring how intelligent,
+connected systems work.
 
 National Tsing Hua University · Indonesia → Taiwan
 
@@ -58,44 +15,125 @@ National Tsing Hua University · Indonesia → Taiwan
 
 ---
 
-## A little about me
+## 👨‍💻 About Me
 
-I'm Wilbert Kenneth Chen, an Electrical Engineering and
-Computer Science student at National Tsing Hua University.
+I'm Wilbert Kenneth Chen, a developer interested in
+**artificial intelligence and computer networking**.
 
-I enjoy building applications that solve everyday problems
-and understanding what happens underneath—from networking
-and embedded systems to machine learning.
+My skills span Python, C/C++, socket programming, MikroTik,
+Linux, and application development with Flutter and Firebase.
 
-- 📱 Developing apps with Flutter and Firebase.
-- 🐼 Working on eNTHUsiast and its course-planning assistant, Bao Bao.
-- 🧠 Exploring machine learning and robust federated learning.
-- ⚙️ Learning through projects in C, embedded systems, and networking.
+I enjoy connecting theory with implementation—whether that
+means building an AI assistant, developing a student app,
+or understanding how systems communicate.
 
-## Selected work
+- 🧠 **AI:** Machine learning and practical AI assistants.
+- 🌐 **Networking:** TCP/IP, socket programming, and MikroTik.
+- 🐧 **Systems:** Linux, embedded programming, and concurrency.
+- 📱 **Development:** Applications built with Flutter and Firebase.
 
-### 🐼 eNTHUsiast
-A student app project for organizing university life.
+---
 
-Course discovery, timetable planning, and graduation tracking,
-with Bao Bao as an AI course-planning assistant.
+## 🛠️ Technologies & Tools
 
-**Built with:** Flutter · Dart · Firebase
+<div align="center">
 
+### AI, Networking & Systems
 
-## What I'm exploring
+![Python](https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-4338CA?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white)
+![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9333EA?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-How can AI help people make better decisions?
+### Application Development
 
-My interests include practical AI assistants and robust
-federated learning, including how to assess unreliable updates.
+![Flutter](https://img.shields.io/badge/Flutter-312E81?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-4338CA?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-6D28D9?style=for-the-badge&logo=firebase&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+### 🐼 eNTHUsiast — University Companion App
+
+A collaborative app project designed to help students
+organize their university life.
+
+- Course discovery and timetable planning.
+- Graduation requirement tracking.
+- Bao Bao, an AI assistant for course planning.
+
+**Technologies:** Flutter · Dart · Firebase
+
+### ⚙️ 8051 Threading & Synchronization
+
+Embedded programming projects exploring how multiple tasks
+share a processor with limited resources.
+
+- Cooperative and preemptive multithreading.
+- Context switching and register preservation.
+- Producer–consumer synchronization and bounded buffers.
+
+**Technologies:** C · SDCC · EdSim51 · 8051
+
+### 🌐 TCP Client–Server Application
+
+A networking project connecting socket programming
+with network protocol concepts.
+
+- Client–server communication through TCP sockets.
+- Command handling and data transfer.
+- Network-header inspection and interpretation.
+
+**Technologies:** C · TCP/IP · Socket Programming
+
+---
+
+## 🎯 Research Interests
+
+I'm interested in the intersection of **AI and distributed systems**,
+particularly how systems can make useful decisions when
+some information is unreliable.
+
+Topics I'm exploring include:
+
+- Robust federated learning.
+- Assessing and downweighting unreliable model updates.
+- Using LLMs to support decision-making.
+- AI assistants that understand user preferences and constraints.
+
+---
+
+## 🏆 Academic Achievement
+
+**Second-year weighted GPA: approximately 4.05 across 45 credits**
+
+| Semester | GPA | Credits |
+|:---------|:---:|:-------:|
+| Fall | 3.89 | 20 |
+| Spring | 4.17 | 25 |
+
+---
+
+## 🎓 Background
+
+**National Tsing Hua University, Taiwan**
+
+Bachelor's studies in Electrical Engineering and Computer Science.
+
+Originally from Indonesia, with interests spanning software,
+intelligent systems, and computer networks.
 
 ---
 
 <div align="center">
 
-### Useful ideas. Thoughtful implementation. Always learning.
+**Building useful things. Understanding what happens underneath.**
 
-Thanks for stopping by ✨
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C084FC&height=100&section=footer" alt="Purple wave footer" />
 
 </div>
