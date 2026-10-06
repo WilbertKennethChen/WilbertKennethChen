@@ -108,16 +108,22 @@ Topics I'm exploring include:
 
 ---
 
-## 🏆 Academic Achievement
+## 🏆 Honors & Achievements
 
-**Second-year weighted GPA: approximately 4.05 across 45 credits**
+### 🇮🇩 National STEM Recognition
+- **National Winner — Kihajar STEM 2023, Indonesia**
+- **Most Communicative Award — Kihajar STEM 2023**
+- Winner of multiple **provincial and regional STEM competitions**.
 
-| Semester | GPA | Credits |
-|:---------|:---:|:-------:|
-| Fall | 3.89 | 20 |
-| Spring | 4.17 | 25 |
+### 🎓 Academic Excellence
+- **Best Student Award, 2024**
+  — Unggul Sakti Vocational High School.
 
----
+### 🌏 NTHU International Student Scholarships
+- **Type A Scholarship Recipient — 2026–2027**
+  — National Tsing Hua University.
+- **Type B Scholarship Recipient — 2024–2025**
+  — National Tsing Hua University.
 
 ## 🎓 Background
 
