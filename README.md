@@ -26,14 +26,14 @@
 ## 👨‍💻 About Me
 
 I'm **Wilbert Kenneth Chen**, a developer and **STEM enthusiast**
-with interests in **artificial intelligence, computer networking,
-and cybersecurity**.
+with interests in **artificial intelligence**, **computer networking**,
+and currently entering the world of **cybersecurity**.
 
 I enjoy connecting theory with implementation—building applications,
 exploring how systems communicate, and applying STEM concepts
 to practical problems.
 
-My skills span **Python, C/C++, socket programming, MikroTik,
+My skills span **Python, C/C++, Socket programming, MikroTik,
 Linux, Flutter, and Firebase**.
 
 | Area | Focus |
@@ -118,7 +118,7 @@ learning systems.
 | :--- | :--- | :--- |
 | **Most Communicative Award** | Kihajar STEM — National Level, Indonesia | 2023 |
 | **Best Graduate Award** | Unggul Sakti Vocational High School | 2024 |
-| **Multiple STEM Competition Wins** | Provincial and regional competitions | — |
+| **Multiple STEM Competition Wins** | Provincial and regional competitions | 2022-2024 |
 
 ### NTHU International Student Scholarships
 
